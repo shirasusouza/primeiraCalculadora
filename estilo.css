@@ -1,0 +1,33 @@
+body
+{
+    background-color: rgb(17, 1, 22);
+    justify-content: space-between;
+    align-items: center;
+    justify-items: center;
+    text-align: center;
+    text-justify: auto;
+}
+h1
+{
+    color: rgb(230, 230, 230);
+}
+input
+{
+    color: rgb(4, 0, 12);
+    background-color: darkgray;
+}
+p,h2{color: aliceblue;}
+#seletor
+{
+color: aliceblue;
+}
+#seletor
+{
+    background-color: darkgrey;
+    color: peru;
+}
+#enviar:hover
+{
+    color: rgb(255, 0, 0);
+    background-color: rgb(0, 0, 0);
+}
