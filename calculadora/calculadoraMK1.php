@@ -56,7 +56,10 @@
     {
         $x=$_POST["numero1"]-$_POST["numero2"];  
         echo "<p>$x</p>";
-      break;    
+      break;   
+        
+        //by Silas Souza
+        
     }
     ?>
 </section>
